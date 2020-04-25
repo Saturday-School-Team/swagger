@@ -1,0 +1,52 @@
+D:\Saturday-School\SchoolApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Saturday-School\SchoolApi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Saturday-School\SchoolApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Saturday-School\SchoolApi\bin\Debug\netcoreapp3.1\SchoolApi.exe
+D:\Saturday-School\SchoolApi\bin\Debug\netcoreapp3.1\SchoolApi.deps.json
+D:\Saturday-School\SchoolApi\bin\Debug\netcoreapp3.1\SchoolApi.runtimeconfig.json
+D:\Saturday-School\SchoolApi\bin\Debug\netcoreapp3.1\SchoolApi.runtimeconfig.dev.json
+D:\Saturday-School\SchoolApi\bin\Debug\netcoreapp3.1\SchoolApi.dll
+D:\Saturday-School\SchoolApi\bin\Debug\netcoreapp3.1\SchoolApi.pdb
+D:\Saturday-School\SchoolApi\obj\Debug\netcoreapp3.1\SchoolApi.csprojAssemblyReference.cache
+D:\Saturday-School\SchoolApi\obj\Debug\netcoreapp3.1\staticwebassets\SchoolApi.StaticWebAssets.Manifest.cache
+D:\Saturday-School\SchoolApi\obj\Debug\netcoreapp3.1\staticwebassets\SchoolApi.StaticWebAssets.xml
+D:\Saturday-School\SchoolApi\obj\Debug\netcoreapp3.1\SchoolApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Saturday-School\SchoolApi\obj\Debug\netcoreapp3.1\SchoolApi.AssemblyInfoInputs.cache
+D:\Saturday-School\SchoolApi\obj\Debug\netcoreapp3.1\SchoolApi.AssemblyInfo.cs
+D:\Saturday-School\SchoolApi\obj\Debug\netcoreapp3.1\SchoolApi.RazorTargetAssemblyInfo.cache
+D:\Saturday-School\SchoolApi\obj\Debug\netcoreapp3.1\SchoolApi.dll
+D:\Saturday-School\SchoolApi\obj\Debug\netcoreapp3.1\SchoolApi.pdb
+D:\Saturday-School\SchoolApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Saturday-School\SchoolApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Saturday-School\SchoolApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Saturday-School\SchoolApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Saturday-School\SchoolApi\obj\Debug\netcoreapp3.1\SchoolApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Saturday-School\SchoolApi\obj\Debug\netcoreapp3.1\SchoolApi.csproj.CopyComplete
+D:\Saturday-School\SchoolApi\bin\Debug\netcoreapp3.1\SchoolApi.xml
+D:\Saturday-School\SchoolApi\obj\Debug\netcoreapp3.1\SchoolApi.xml
+D:\Saturday-School\New folder\SchoolApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Saturday-School\New folder\SchoolApi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Saturday-School\New folder\SchoolApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Saturday-School\New folder\SchoolApi\bin\Debug\netcoreapp3.1\SchoolApi.exe
+D:\Saturday-School\New folder\SchoolApi\bin\Debug\netcoreapp3.1\SchoolApi.deps.json
+D:\Saturday-School\New folder\SchoolApi\bin\Debug\netcoreapp3.1\SchoolApi.runtimeconfig.json
+D:\Saturday-School\New folder\SchoolApi\bin\Debug\netcoreapp3.1\SchoolApi.runtimeconfig.dev.json
+D:\Saturday-School\New folder\SchoolApi\bin\Debug\netcoreapp3.1\SchoolApi.dll
+D:\Saturday-School\New folder\SchoolApi\bin\Debug\netcoreapp3.1\SchoolApi.pdb
+D:\Saturday-School\New folder\SchoolApi\bin\Debug\netcoreapp3.1\SchoolApi.xml
+D:\Saturday-School\New folder\SchoolApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Saturday-School\New folder\SchoolApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Saturday-School\New folder\SchoolApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Saturday-School\New folder\SchoolApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Saturday-School\New folder\SchoolApi\obj\Debug\netcoreapp3.1\SchoolApi.csprojAssemblyReference.cache
+D:\Saturday-School\New folder\SchoolApi\obj\Debug\netcoreapp3.1\staticwebassets\SchoolApi.StaticWebAssets.Manifest.cache
+D:\Saturday-School\New folder\SchoolApi\obj\Debug\netcoreapp3.1\staticwebassets\SchoolApi.StaticWebAssets.xml
+D:\Saturday-School\New folder\SchoolApi\obj\Debug\netcoreapp3.1\SchoolApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Saturday-School\New folder\SchoolApi\obj\Debug\netcoreapp3.1\SchoolApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Saturday-School\New folder\SchoolApi\obj\Debug\netcoreapp3.1\SchoolApi.AssemblyInfoInputs.cache
+D:\Saturday-School\New folder\SchoolApi\obj\Debug\netcoreapp3.1\SchoolApi.AssemblyInfo.cs
+D:\Saturday-School\New folder\SchoolApi\obj\Debug\netcoreapp3.1\SchoolApi.RazorTargetAssemblyInfo.cache
+D:\Saturday-School\New folder\SchoolApi\obj\Debug\netcoreapp3.1\SchoolApi.csproj.CopyComplete
+D:\Saturday-School\New folder\SchoolApi\obj\Debug\netcoreapp3.1\SchoolApi.dll
+D:\Saturday-School\New folder\SchoolApi\obj\Debug\netcoreapp3.1\SchoolApi.xml
+D:\Saturday-School\New folder\SchoolApi\obj\Debug\netcoreapp3.1\SchoolApi.pdb

@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SchoolApi</name>
+    </assembly>
+    <members>
+        <member name="M:SchoolApi.Controllers.StudentController.GetStudent">
+            <summary>
+            Get All Student
+            </summary>
+            <returns> List Of Student</returns>
+        </member>
+        <member name="M:SchoolApi.Controllers.StudentController.GetSs(System.Int32)">
+            <summary>
+            Get Student with Phone Number
+            </summary>
+            <param name="pNum">Phone Number</param>
+            <returns> Student with Phone Number</returns>
+        </member>
+        <member name="M:SchoolApi.Controllers.StudentController.Create(SchoolApi.Models.Student)">
+             <summary>
+             Create a Student
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 POST /Student/Add
+                 {
+                    "name": "Item1",
+                    "Email": "mail@email.com",
+                    "PhoneNumber": 12342345345
+                 }
+            
+             </remarks>
+             <param name="std">Student Info</param>
+             <returns>A newly created Student</returns>
+             <response code="201">Returns the newly created item</response>
+             <response code="400">If the item is null</response>
+        </member>
+        <member name="M:SchoolApi.Controllers.WeatherForecastController.Get">
+            <summary>
+            Get Weather
+            </summary>
+            <returns> Weather List</returns>
+        </member>
+        <member name="P:SchoolApi.Models.Student.PhoneNumber">
+            <summary>
+            Student Phone Number
+            </summary>
+        </member>
+    </members>
+</doc>
