@@ -7,8 +7,12 @@ using Microsoft.Extensions.Logging;
 
 namespace SchoolApi.Controllers
 {
+
     [ApiController]
-    [Route("[controller]")]
+    [Route("api/v{version:apiVersion}/[controller]")]
+    // Which versions the controller responds to
+    [ApiVersion("1")]
+    [ApiVersion("2")]
     public class WeatherForecastController : ControllerBase
     {
         private static readonly string[] Summaries = new[]
