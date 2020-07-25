@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SwaggerXML</name>
+    </assembly>
+    <members>
+        <member name="M:Swagger.Controllers.WeatherForecastController.Get">
+            <summary>
+            Get Weather Data
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Swagger.Controllers.WeatherForecastController.Get(System.String)">
+            <summary>
+            Get Weather Information by date
+            </summary>
+            <param name="date"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Swagger.Controllers.WeatherForecastController.Create(Swagger.WeatherForecast)">
+             <summary>
+             Insert Tempurature data
+             </summary>
+             <param name="weatherForecast"></param>
+             <remarks>
+             Sample request:
+            
+                 {
+                    "date": "2020-07-18T07:21:11.550Z",
+                    "temperatureC": 0,
+                    "summary": "string"
+                 }
+            
+             </remarks>
+             <response code="200">Successfully Insert temperature data</response>
+             <response code="400">Unable to insert data</response>
+        </member>
+    </members>
+</doc>
